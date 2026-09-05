@@ -1,0 +1,21 @@
+# Never commit participant-level data or imaging
+*.csv
+*.xlsx
+*.txt
+*.nii
+*.nii.gz
+*.mnc
+*.obj
+*.p
+*.pkl
+*.npy
+*.docx
+*.pdf
+data/
+raw/
+features*/
+civet*/
+brain_ages/
+logs/
+__pycache__/
+.ipynb_checkpoints/
